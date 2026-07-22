@@ -43,3 +43,7 @@ example
 /android
 .env
 .env.local
+.claude/
+CLAUDE.md
+AGENTS.md
+.vscode/
