@@ -4,11 +4,11 @@
     "slug": "drilly",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/kribb.png",
     "scheme": "drilly",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/images/kribb.png"
     },
     "android": {
       "adaptiveIcon": {
@@ -29,7 +29,7 @@
         "expo-splash-screen",
         {
           "backgroundColor": "#208AEF",
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/kribb.png",
           "imageWidth": 76
         }
       ]
